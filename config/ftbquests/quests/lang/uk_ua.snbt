@@ -68,7 +68,7 @@
 	chapter_group.22FB35B0FEF1343D.title: "Tools and Weapons"
 	chapter_group.295BE417292024EC.title: "Modern Industrialization"
 	chapter_group.2B51AC12041E3F89.title: "Tech"
-	chapter_group.3D4E23B1100491AB.title: "Logistics"
+	chapter_group.3D4E23B1100491AB.title: "Логістика"
 	chapter_group.49AECADBA9E79A3B.title: "Power"
 	chapter_group.5A4775CCD6D26C80.title: "Exploration"
 	chapter_group.6614EE2378B8AFB9.title: "Resources"
@@ -151,7 +151,7 @@
 	quest.00D7BCC68D971A53.quest_subtitle: "Max: 1"
 	quest.00DB5495C3A44999.quest_desc: ["Shift-Right Click an inventory to empty."]
 	quest.00DEFA26F2B896D6.quest_subtitle: "Silver Lime + Oak/Birch"
-	quest.00E1F1279F97557B.quest_desc: ["Similar to the Extruder MK1 but this one is more evolved! Can be used with Patterns so when Blocks are placed they will go in that pattern!"]
+	quest.00E1F1279F97557B.quest_desc: ["Схожий на Extruder MK1, але цей більш просунутий! Може працювати з шаблонами, щоб блоки розміщувалися у заданому порядку!"]
 	quest.00EC37E07591FFC4.quest_desc: ["The last thing you need for Replica, obviously involves another Scroll. Scroll of the Mystic Eyes of Death Collection. It will allow you to collect Souls from watchings mobs die. Each death is only a very little bit of souls so you'll need to see a lot of death. Once you have 100 you're ready to get Replica."]
 	quest.00EC37E07591FFC4.title: "Souls"
 	quest.00EFC7B327E79076.quest_desc: ["After zapping away trillions of power in the SPS, we can finally create &dAntimatter Pellets&r.\\n\\nRun the Antimatter Gas you get from the SPS into a Chemical Crystallizer and you'll get 1 Antimatter Pellet for every 1,000mb you make."]
@@ -195,8 +195,8 @@
 	quest.01119871B1D5C576.title: "&6Village"
 	quest.0115271C840CD387.quest_desc: ["Time to upgrade that boiler perhaps?"]
 	quest.0115271C840CD387.quest_subtitle: "So much steam"
-	quest.011F787E620DE9E8.quest_desc: ["To set the Mob Filter you just have to click the Mob you never want to see again, with the Mob Filter. \\n\\nEach Filter can only hold 1 Mob so if you want Zombies, Skeletons, Spiders, Creepers, and Endermen to no longer spawn you'll need 5 Mob Filters. \\n\\nYou can exchange the Mob in it by simplying clicking a different Mob with it."]
-	quest.011F787E620DE9E8.quest_subtitle: "He's uninvited!"
+	quest.011F787E620DE9E8.quest_desc: ["Щоб налаштувати Фільтр мобів, просто натисніть ним на моба, якого більше не хочете бачити. \\n\\nКожен фільтр може містити лише одного моба, тож якщо хочете заблокувати появу зомбі, скелетів, павуків, кріперів і ендерменів — знадобиться 5 фільтрів. \\n\\nЩоб змінити моба у фільтрі, просто натисніть ним на іншого моба."]
+	quest.011F787E620DE9E8.quest_subtitle: "Йому тут не раді!"
 	quest.012366E4E4095FC4.quest_desc: [
 		"Filter Casings are necessary to actually filter out bad particulates from the air and make the room &eclean&r"
 		""
@@ -231,7 +231,7 @@
 	quest.01B13BBB41BBB460.title: "&cUtherium&r Armor"
 	quest.01B2DDD81065B4EF.quest_subtitle: "Jungle + Cherry"
 	quest.01C169A7FA424F6E.quest_subtitle: "Tier: &a2"
-	quest.01C5D8357D8B0D62.quest_desc: ["If you know how a Detector Rail works then this Module will be explanatory for you. \\n\\nBasically if a certain Item is in the Router, it will emit a Redstone Signal out of the Router. \\n\\nIn the Module you can set the Item, where the Signal comes from, and how strong a Signal."]
+	quest.01C5D8357D8B0D62.quest_desc: ["Якщо ви знаєте, як працює детекторна рейка, цей модуль буде для вас зрозумілим. \\n\\nПо суті, якщо певний предмет знаходиться в роутері, він буде випромінювати сигнал редстоуну з роутера. \\n\\nУ модулі можна налаштувати предмет, джерело сигналу та силу сигналу."]
 	quest.01CF1A9D9F29AFF7.quest_subtitle: "Pomelo + Orange"
 	quest.01D895369791881A.quest_desc: ["Now we get 2 ZPM processors for each craft! This is a great breakthrough, and will make expanding our machine footprint much easier!"]
 	quest.01D895369791881A.quest_subtitle: "Stacking them up"
@@ -365,7 +365,7 @@
 	quest.033BF8D12E32A5E5.quest_desc: ["Take that Ruthenium Dust and get to mixing! "]
 	quest.033BF8D12E32A5E5.quest_subtitle: "All Mixed Up"
 	quest.0342248394E40B6A.quest_desc: ["Цей квест був створений &6командою AllTheMods&r або &2учасником спільноти&r для використання у збірках AllTheMods.\\n\\nОскільки всі збірки &6AllTheMods&r ліцензовані як &eВсі права захищено&r, цей квест не дозволяється використовувати у жодних публічних збірках, які не випущені командою &6AllTheMods Team&r без явного дозволу.\\n\\nЦей квест навмисно прихований, якщо ви його бачите — ви перебуваєте в режимі редагування."]
-	quest.034A9FBCA6D79BB6.quest_desc: ["The Harvester Pylon needs a Hoe to work. \\n\\n(Hoes that can't break will work forever, Hoes that can will need to be replaced)."]
+	quest.034A9FBCA6D79BB6.quest_desc: ["Для роботи Жниварного пілону потрібна мотика. \\n\\n(Незламні мотики працюватимуть вічно, а ті, що ламаються — доведеться замінювати)."]
 	quest.034DB3C64F24C7B7.quest_desc: ["&6&lAllTheOres&r is a built in-house mod made to help unify ores.\\n\\nWith that comes a ton of very useful decorative blocks!\\n\\n&dFluorite&r and &9Sapphire&r both look very cool!"]
 	quest.034DB3C64F24C7B7.title: "&l&6AllTheOres&r Blocks"
 	quest.034F2CDF0830254B.quest_desc: [
@@ -731,10 +731,10 @@
 	quest.0672462DA3599484.quest_subtitle: "512,000mb"
 	quest.06767BA0AFE8C1EE.quest_desc: ["1... 2... there's a 4 somewhere as well. \\n\\nTo set a Number put the Item in then you can Left or Right Click to change the amount. Shift and do the same to go by 10s. Once you have a set Number through it into a Card! \\n\\nIt will then wait until that set Number of Items is there to start taking Items. It will also leave that amount in the first Inventory."]
 	quest.067AB3E4C4492F0D.quest_desc: [
-		"Don't feel like Mining a bunch of Ores you got? Why not let Routers do it for you? \\n\\nYou can use a Placer to place down the Ores, then let an Enchanted Breaker Mine the Ores. Breaker needs the Pickaxe used to craft it to be Enchanted first, the Module itself can't be Enchanted. \\n\\nYou might need another Router to pick up the dropped Ores."
+		"Не хочеш сам копати всі ці руди? Чому б не доручити це роутерам? \\n\\nТи можеш використати Placer, щоб розмістити руди, а потім Зачарований Breaker добуде їх. Для роботи Breaker потрібно, щоб кайло, з якого він створений, було попередньо зачароване — сам модуль зачарувати не можна. \\n\\nМоже знадобитися ще один роутер, щоб підбирати здобуті руди."
 		"{image:atm:textures/questpics/router/router_break.png width:150 height:80 align:center}"
 	]
-	quest.067AB3E4C4492F0D.title: "Routers for Mining"
+	quest.067AB3E4C4492F0D.title: "Роутери для видобутку"
 	quest.068294A7C21DE550.quest_desc: ["&cTrack Kits&r are used to craft with &6rails&r to make special &6rails&r. \\n\\nThese &6rails&r will be helpful for everything &5Train&r wise like: stopping the &5Train&r, moving the &5Train&r, and emitting redstone."]
 	quest.068294A7C21DE550.title: "&c&lTracks&r!"
 	quest.0682DC1F2417DAEB.quest_desc: ["Functional Storage is a storage mod that adds varuious useful items to help with storage and ways of storing stacks of the same items.\\n\\nThis can be useful for items like Cobblestone, Dirt and more."]
@@ -1039,11 +1039,11 @@
 		""
 		"When used to kill mobs, it will fill &aTest Tubes&r with &cBlood&r."
 	]
-	quest.09D18512037386C1.quest_desc: ["In order to put Potion Effects into you'll need to fill a Potion Filter. \\n\\nTo do so: have a Potion Effect on you, then right click with the Potion Filter to remove it from you and add it to the Filter, and repeat until it's filled and active. \\n\\nThis also works with modded Potion Effects or ones you can't usually get through Potions like Haste or Resistance."]
+	quest.09D18512037386C1.quest_desc: ["Щоб додати ефекти зілля, потрібно наповнити Фільтр зілля. \\n\\nДля цього: отримайте на себе ефект зілля, потім клацніть правою кнопкою миші з Фільтром зілля, щоб забрати ефект у себе й додати його у фільтр, і повторюйте, доки фільтр не буде заповнений та активний. \\n\\nЦе працює і з модифікованими ефектами або тими, які зазвичай не отримати через зілля, наприклад, Квапливість чи Стійкість."]
 	quest.09D2137B4F42006E.quest_desc: ["Eclipse Ember is a new material added by JDT. Eclipse Ember is aquired by performing Goo Spread on Voidflame Coal Blocks using tier four goo. Eclipse Ember Ore is affected by fortune."]
 	quest.09D76E9B8CABC31E.quest_desc: ["For &5&lCreative Essence&r you'll need 4 &5Insanium Essence Blocks&r. Each Block is 9 &5Essence&r now let me do the math... \\n\\nYou'll need 9,216 &aInferium Essence&r to get just one of these Blocks. So you'll need 36,864 &aInferium Essence&r total!"]
 	quest.09D76E9B8CABC31E.title: "4 &5Insanium Blocks"
-	quest.09E25B1CD6CABD5A.quest_desc: ["This upgrade makes the Router similar to a Framed Block. \\n\\nSneak Right Click a Block to change the Routers appearance to it. \\n\\nJust don't lose it!"]
+	quest.09E25B1CD6CABD5A.quest_desc: ["Це покращення робить роутер схожим на обрамлений блок. \\n\\nПрисівши, клацніть правою кнопкою по блоку, щоб змінити вигляд роутера. \\n\\nТільки не загубіть його!"]
 	quest.09E34E1F9C751458.quest_desc: ["The &dVertical Gearbox&r is just like the normal &dGearbox&r if someone rotated it. \\n\\nIt has 4 internal &8Shafts&r just this time instead of the Cardinal Directions, they are (from where you place it) Front, Back, Up, and Down. \\n\\nAlso like the normal &dGearbox&r, it will keep the Speed and Stress Units from the original &8Shaft&r!"]
 	quest.09E34E1F9C751458.title: "&dVertical Gearbox"
 	quest.09EF804D70C856FB.quest_desc: [
@@ -1348,7 +1348,7 @@
 	quest.0CD04A00529FE1C9.quest_desc: ["The Copper Chest can be made but is not needed to make an Iron Chest, it can be used if you want to save some Iron though."]
 	quest.0CD04A00529FE1C9.title: "&6Copper Chest"
 	quest.0CE1F6DE5FD6A6D9.title: "&aEvocation&r Upgrade Orb"
-	quest.0CE236731DF15DFF.quest_desc: ["Why wait? Usually items dropped in Minecraft have a second they need to hit the ground to be picked up again. \\n\\nBut why wait?\\n\\nThis upgrade lets the Vacuum Module not wait and immediately pick up the items. \\n\\nVery good for less lag!"]
+	quest.0CE236731DF15DFF.quest_desc: ["Навіщо чекати? Зазвичай предмети, що випали в Minecraft, мають секунду, щоб впасти на землю, перш ніж їх можна підняти. \\n\\nАле навіщо чекати?\\n\\nЦе покращення дозволяє Vacuum Module підбирати предмети миттєво. \\n\\nДуже добре для зменшення лагів!"]
 	quest.0CF69DBA9573A7B3.quest_desc: [
 		"The Schematic Table will read and write structures to/from your schematics."
 		""
@@ -1415,10 +1415,10 @@
 	quest.0D50BDEFA0319EA1.quest_desc: ["This will drop the finished product into your output chest."]
 	quest.0D50BDEFA0319EA1.quest_subtitle: "Always Required"
 	quest.0D5691403AEC25A8.quest_desc: [
-		"Routers can also be used for Farming!\\n\\nFirst start off with a simple Farm. Then you'll need an Activator Module and direct it toward the Crops. After that, put a Vacuum Module in your Router to collect the Crops. Finally put it all in the Router, Power it with Redstone, and let it farm!"
+		"Роутери можна використовувати й для фермерства!\\n\\nСпочатку створіть просту ферму. Далі вам знадобиться Модуль-Активатор — спрямуйте його на посіви. Потім додайте Модуль-Втягувач у роутер, щоб збирати врожай. Зрештою, встановіть усе це в роутер, подайте сигнал редстоуну — і нехай він автоматично фермерує!"
 		"{image:atm:textures/questpics/router/router_farm.png width:60 height:150 align:center}"
 	]
-	quest.0D5691403AEC25A8.title: "Routers for Farming"
+	quest.0D5691403AEC25A8.title: "Роутери для фермерства"
 	quest.0D573979B25FAC48.quest_desc: [
 		"Keep in mind, each Energy Hatch can accept 2 Amps of power"
 		""
@@ -1464,7 +1464,7 @@
 	quest.0DB92C70D04725BE.quest_subtitle: "Duracell Eat your heart out"
 	quest.0DC0E236C8213050.quest_desc: ["By combining 500mB of Unrefined Liquid Souls with a singular Soul, we can create 500mB of Liquid Souls! \\n\\nThis will need twice the amount of &dSource&r that the &bLiquid Aureal&r needs, at 2000 &dSource&r."]
 	quest.0DC0E236C8213050.title: "Liquid Souls"
-	quest.0DC8B68CDF945348.quest_desc: ["The Router giveth and the Router taketh. \\n\\nThis Module is helpful for Builders or even Miners! It can be set to send items from its Buffer to your Inventory or take items from your Inventory into its Buffer. \\n\\nPerfect for Strip-Mining, have it take all the Cobble and Deepslate from your Inventory and put it in a Trash Can."]
+	quest.0DC8B68CDF945348.quest_desc: ["Роутер дає і забирає. \\n\\nЦей модуль корисний для будівельників або шахтарів! Може надсилати предмети з буфера у ваш інвентар або забирати з вашого інвентаря у буфер. \\n\\nІдеально для стрип-майнінгу: нехай забирає весь камінь і глибинний сланець з вашого інвентаря та кладе у смітник."]
 	quest.0DD389A24F5F8CDD.quest_desc: ["&l&6Aqua Regia&r&r is a mixture of Concentrated Nitric Acid and Hydrochloric Acid, usually one part to three parts, respectively. The Mixture was given its name (literally \"Royal Water\") by alchemists because of its ability to dissovle &l&eGold&r&r."]
 	quest.0DD389A24F5F8CDD.quest_subtitle: "Im a Barbie Girl, In a Barbie world... If you know, you know."
 	quest.0DF4B01CC5B49E4E.quest_desc: ["With this Cast, you can make the basic sword! Reliable damage and reliable speed."]
@@ -1744,10 +1744,10 @@
 		"The Catalyst will ensure that each operation is able to properly complete. They will also be used in the creation of the controller for the Multiblock"
 	]
 	quest.1060C764347CC243.quest_subtitle: "We need Cats"
-	quest.10672B5991E5FC34.quest_desc: ["It's my stuff, no touchy. \\n\\nOnly you can use and mess with the Router after putting in the Upgrade."]
+	quest.10672B5991E5FC34.quest_desc: ["Це мої речі, не чіпати. \\n\\nТільки ви зможете користуватися роутером після встановлення цього покращення."]
 	quest.106884349C9FF3BA.quest_desc: ["Man some Light Sources are just so butt ugly! \\n\\nLets change that!"]
 	quest.106884349C9FF3BA.title: "&l&bChipped&r Lights"
-	quest.1069244EB72F64CA.quest_desc: ["Takes more Energy with the Energy Modules!"]
+	quest.1069244EB72F64CA.quest_desc: ["Потрібно більше енергії з енергетичними модулями!"]
 	quest.106A3D79B1CDE895.title: "Netherack 6X"
 	quest.106C552DDD95543C.quest_subtitle: "&f10.5 &cAttack Damage"
 	quest.109310AF19AAC482.quest_desc: ["The &4Flamethrower&r is one of the Ranged Weapons &5&lMekanism&r offers. \\n\\nLike the &cJetpack&r it uses Hydrogen as Fuel and is loaded just the same way as the &cJetpack&r. \\n\\nWe can press (N) to change its modes. \\n\\n&eCombat&r: will set Mobs on &6Fire&r and do Damage, but won't Burn Blocks or Items. \\n&6Heat&r: from what I can tell can only do the same. \\n\\n&4Inferno&r: Burns everything!"]
@@ -1979,11 +1979,11 @@
 		"You can use an &eExtractor&r on the dust to get it in liquid form"
 	]
 	quest.12ED1EE85E146A4B.quest_desc: [
-		"Harvester Pylons work as a very simple Auto-Farm. Put the Pylon on or in the Water Source and it will automatically harvest and replant Crops that are fully grown in the set area around it. "
+		"Жниварні пілони працюють як дуже проста автоферма. Поставте пілон у джерело води або на нього, і він автоматично збиратиме та пересаджуватиме врожай, що повністю дозрів у заданій області навколо себе."
 		""
-		"The area can be set to 3x3, 5x5, 7x7, or 9x9 Blocks around the Pylon. "
+		"Область дії можна встановити на 3x3, 5x5, 7x7 або 9x9 блоків навколо пілона."
 		""
-		"It will need a Hoe to use on the Plants and will need an Inventory like a chest above it to put the Crops. Do all that and if it's turned On it will start farming!"
+		"Для роботи йому потрібна мотика для обробки рослин і скриня або інший інвентар зверху для зберігання врожаю. Зробіть усе це, і якщо він увімкнений — ферма почне працювати!"
 	]
 	quest.12EF38830108D02B.quest_desc: ["Kill 32 normal Spiders."]
 	quest.12F24C9C6D2AF887.quest_desc: ["Two buckets of &boxygen&r plus the &bferrite mixture dust&r in your &eElectric Blast Furnace&r gets you the ingot - no cooling necessary!"]
@@ -2145,7 +2145,7 @@
 	quest.1427B3AB09510D20.quest_subtitle: "You did it!"
 	quest.142C67218BD16867.quest_desc: ["Load up your Minigun with this &3Minigun Ammo&r to use it."]
 	quest.142D12B41C36D68A.quest_subtitle: "This is a load of Boule"
-	quest.143AE6889BDA9EF5.quest_desc: ["Modules only have so many slots for Filtered Items, if you need more than use this! Bulk Item Filter. \\n\\nYou can put many more Items in to Whitelist or Blacklist in it. Then throw it in where normal Filters go! \\n\\nWill be needed to craft more unique Filters!"]
+	quest.143AE6889BDA9EF5.quest_desc: ["У модулях обмежена кількість слотів для фільтрованих предметів, якщо потрібно більше — використовуйте цей! Масовий фільтр предметів. \\n\\nВи можете додати набагато більше предметів у білий або чорний список. Потім вставте його туди, куди зазвичай ставлять фільтри! \\n\\nПотрібен для створення унікальних фільтрів!"]
 	quest.143BF8A4944C471D.quest_subtitle: "Cheaper than ever!"
 	quest.144BB025516E0994.quest_desc: [
 		"&3Вібраній&r — це наступна руда після &6Усемодію&r, тому для її добування потрібне &6Усемодієве кайло&r (або інструмент такого ж рівня).\\n\\nЗустрічається рідко у &c&lНезері&r, але у великій кількості — у &bІншому світі&r.\\n\\nРекомендується обробляти руду для отримання більшої кількості ресурсу.\\n\\nНа жаль, попри яскравий вигляд, ця ATM-руда має найменше застосувань серед усіх."
@@ -2460,7 +2460,7 @@
 	quest.176C06C7593C264E.quest_subtitle: "Quad Batteries"
 	quest.1770FF93638B3F22.quest_desc: ["The Superior Sigil of Socketing does exactly what its inferior version does but up to 4 sockets instead of 3."]
 	quest.1770FF93638B3F22.title: "Superior Sigil of Socketing"
-	quest.177396B9C4F9B3E2.quest_desc: ["Why wait? Oh you have valid reasons for waiting? Like items that might despawn. Huh wasn't thinking about those. \\n\\nWith Pickup Delay Augment the Vacuum Module will wait 10 ticks with every Augment in it to pick up dropped items! "]
+	quest.177396B9C4F9B3E2.quest_desc: ["Навіщо чекати? О, у вас є вагомі причини чекати? Наприклад, предмети можуть зникнути. Хм, не подумав про це. \\n\\nЗ доповненням затримки підбору Vacuum Module чекатиме 10 тікiв за кожне доповнення, щоб підняти предмети! "]
 	quest.17740696B9284520.quest_subtitle: "Terraria's Wand of Sparking got nothing on this."
 	quest.177658CA70DB0C89.quest_desc: ["The &cEndoflame&r will absorb any combustible items or blocks dropped nearby, one at a time. It will then burn them to generate &bMana&r."]
 	quest.177658CA70DB0C89.title: "&cBurning Items&r to Create Mana"
@@ -2562,7 +2562,7 @@
 		"Passive Mobs -> More Pink Slime"
 		"Hostile Mobs -> More Meat"
 	]
-	quest.18246A48C20B29D8.quest_desc: ["The Infusion Pylon works similar as a Beacon just much better and cheaper! \\nWhen a Potion Effect is put in by a Potion Filter, it will continuously give you the Potion Effect no matter where you are! \\n\\nYou heard me right, no longer is there a set radius for the Infusion Pylon, now it will reach you wherever."]
+	quest.18246A48C20B29D8.quest_desc: ["Пілон настоювання працює подібно до маяка, але набагато краще й дешевше! \\nКоли ви додаєте ефект зілля через Фільтр зілля, він постійно надаватиме вам цей ефект незалежно від вашого місцезнаходження! \\n\\nТак, ви правильно почули — тепер у Пілона настоювання немає обмеженого радіусу, він діятиме на вас всюди."]
 	quest.1827DEEA2DF1B144.quest_desc: ["Welcome to the Food and Farming chapter!\\n\\nHere, you'll find different ways for you to grow and make food!"]
 	quest.1827DEEA2DF1B144.title: "Food and Farming"
 	quest.182EBB06B81BDF98.quest_desc: ["Greatly decreases the amount of Mana a Mana Burst carries and dramatically increases the burst's speed and distance."]
@@ -2583,7 +2583,7 @@
 	quest.1848F431D0380DA9.title: "Repairing Items"
 	quest.184F98BE0F6710E2.quest_desc: ["These 2 &cTrack Kits&r are for using &7Carts&r and Redstone.\\n\\nThe &cActivator Kit&r will activate whatever &7Cart&r goes over it. \\nThe &cDetector Kit&r will activate a redstone signal whenever a &7Cart&r passes over it. \\n\\nBoth are similar to their &2Vanilla&r counters for regular &6tracks&r."]
 	quest.184F98BE0F6710E2.title: "&cTrack Kits&r for using Redstone"
-	quest.185074907753AE77.quest_desc: ["If you are using Routers I hope you have some game knowledge. \\n\\nJust incase, to void an Item means to delete it. \\n\\nAny items that come into the Router, will be deleted forever! \\n\\nRecommend using Filters with this one..."]
+	quest.185074907753AE77.quest_desc: ["Якщо ви користуєтесь роутерами, сподіваюся, ви маєте ігровий досвід. \\n\\nНа всяк випадок: видалити предмет — означає знищити його. \\n\\nУсі предмети, що потрапляють у роутер, будуть видалені назавжди! \\n\\nРекомендуємо використовувати фільтри з цим модулем..."]
 	quest.185DBBDD252CBA0C.quest_desc: [
 		"The &6&lForge&r is the most important Block in &6&lForbidden \\& Arcanus&r! Now that you made the Multiblock you can break the &6&lForge&r block and move it, even though it only works while on the Mutliblock. \\n\\nYou'll need to fill it with all 4 Essences: &bAureal&r, Souls, &4Blood&r, and &aExperience&r! \\n\\nThen, put in Relics if necessary. \\n\\nAfter that, put the center Item in the Recipe, in the middle Slot of the &6&lForge&r, and the outer Items on the &6Pedestals&r."
 		"{image:atm:textures/questpics/forbidden/forbidden_gui.png width:135 height:100 align:center}"
@@ -2803,7 +2803,7 @@
 	]
 	quest.1A739D36D5E3B1AD.quest_subtitle: "More Filtering Options"
 	quest.1A739D36D5E3B1AD.title: "&eAdvanced Feeding Upgrade"
-	quest.1A806C1A54B26EB5.quest_desc: ["You don't want everything to do their actions at a larger range? You want your Vacuum to leave some room for dropping items in your World? Then I guess you can range down."]
+	quest.1A806C1A54B26EB5.quest_desc: ["Не хочете, щоб усе працювало на великій відстані? Хочете, щоб Vacuum Module залишав місце для предметів у світі? Тоді зменшіть радіус."]
 	quest.1A8440C0048EEB02.quest_desc: ["&cBlazegold&r has same stats as Iron but has other abilities Iron wishes it had! \\n\\nCheck out the Item descriptions to learn more of what they can do!"]
 	quest.1A8440C0048EEB02.quest_subtitle: "15"
 	quest.1A8440C0048EEB02.title: "&cBlazegold Armor"
@@ -2816,7 +2816,7 @@
 	quest.1A8F438DB8508276.title: "&3Frosted Prison&r: Home of the &3&lMaledictus"
 	quest.1A96C595CBA42840.quest_desc: ["Kivi Seeds can be used to grow Kivi Essence which can be crafted in Kivi!"]
 	quest.1A96C595CBA42840.title: "Kivi Automation"
-	quest.1AA81C41431FD145.quest_desc: ["Pull..! Pull..! Pull..! \\n\\nThe Puller is the opposite of the Sender, it pulls items from Inventories into the Router's Buffer. \\n\\nThe Inventory has to be adjacent to the Router."]
+	quest.1AA81C41431FD145.quest_desc: ["Тягни..! Тягни..! Тягни..! \\n\\nМодуль-тягач — протилежність відправника, він тягне предмети з інвентарів у буфер роутера. \\n\\nІнвентар має бути поруч із роутером."]
 	quest.1AADF0A1B42AD511.quest_desc: ["Using all of the materials we've gathered so far, we can make the first piece of the &dRailgun&r needed for the &6Star&r!"]
 	quest.1AAF0B31B47AF23D.quest_desc: ["Individual ME devices can also be configured to respond to redstone signals. When upgraded with a &bRedstone Card&f, a device can be configured to do work only when powered with redstone or otherwise as needed.\\n\\nThis behavior can also apply to entire &osections&r of an ME network by using an &bME Toggle Bus&f. This allows a section of the network on the other side of the bus to come online only when the bus is powered by redstone, or to go offline if using an &einverted&f toggle bus."]
 	quest.1AAF0B31B47AF23D.title: "Redstone-Controlled ME"
@@ -3368,7 +3368,7 @@
 		"This can be given different kinds of plants to break down into &bEthanol&r!"
 	]
 	quest.20D4341820B44B91.title: "Fermenter"
-	quest.20D4568857887D38.quest_desc: ["Sometimes a Router might be in a dangerous situation, like spawning a Wither. \\n\\nIn order to protect it you'll need a Blast Upgrade. \\n\\nTNT won't break it, Wither won't break it, only you."]
+	quest.20D4568857887D38.quest_desc: ["Іноді роутер може опинитися в небезпечній ситуації, наприклад, при виклику Візера. \\n\\nЩоб захистити його, знадобиться вибухозахисне покращення. \\n\\nДинаміт не зламає його, Візер не зламає, лише ви зможете."]
 	quest.20DA5CA244B7ABBF.quest_desc: [
 		"Fun Fact: You cannot breathe on the Moon without &bOxygen&r. Actually, you can't breathe anywhere without Oxygen. Guess what the Moon doesn't have?"
 		""
@@ -3658,8 +3658,8 @@
 	quest.2331FCDD2F2B709A.title: "Supercharged Coils"
 	quest.2338E5269CA23C91.quest_desc: ["The &3Netherite Drill Bit&r is the best Drill Bit, it's even better than the Diamond Drill Bit."]
 	quest.2338E5269CA23C91.quest_subtitle: "This is the Best Bit"
-	quest.233C7CAA573D6045.quest_desc: ["Modules determine the action the Router preforms.\\n\\nThey can make it so your Router pulls items from Chests, or put items into chests, or even both! And much more!\\n\\nModules go into the Router themselves and multiple can be installed.\\n\\nFiltering and Upgrades go into the Modules themselves."]
-	quest.233C7CAA573D6045.title: "&lModules"
+	quest.233C7CAA573D6045.quest_desc: ["Модулі визначають, яку дію виконує роутер.\\n\\nВони можуть змусити ваш роутер витягати предмети зі скринь, класти предмети у скрині або навіть і те, й інше! І ще багато чого!\\n\\nМодулі вставляються безпосередньо в роутер, і можна встановити кілька.\\n\\nФільтри та покращення вставляються у самі модулі."]
+	quest.233C7CAA573D6045.title: "&lМодулі"
 	quest.233E438357CD89F6.quest_desc: [
 		"&9Turbine Valves&r are used to pump in &bSteam&r, as well as pumping out the power that the Turbine creates."
 		""
@@ -3757,7 +3757,7 @@
 	quest.24042326B4632DD4.quest_desc: ["To start with Logistics craft a &3Logistics Core&r, I recommend reading the PNC:R Manual for a full tutorial on how to use these items."]
 	quest.24042326B4632DD4.quest_subtitle: "Transporting Items/Fluids"
 	quest.24042326B4632DD4.title: "Logistics"
-	quest.2405663C033CBDF1.quest_desc: ["MK3 doesn't worry about XYZ axis, line of sight, or Dimension. \\n\\nAs long as the Inventory is in the same Minecraft World it can move items into it. \\n\\nHeck I'm not even sure if the Inventory has to be in the game of Minecraft to send to!"]
+	quest.2405663C033CBDF1.quest_desc: ["MK3 не зважає на осі XYZ, видимість чи вимір. \\n\\nГоловне, щоб інвентар був у тому ж світі Minecraft — тоді можна переміщати предмети. \\n\\nНавіть не впевнений, чи інвентар має бути у грі, щоб туди надсилати!"]
 	quest.2409EAD96CE3BDF7.quest_desc: ["Blazegold Templetes are used to upgrade Ferricore armor and tools to Blazegold while retaining enchantments and installed upgrades."]
 	quest.24150DE600C2D761.quest_desc: ["This one is single-handly taking us from E10 to Teen rating. &4&lBlood&r is all about slaying enemies for your own &cHealth&r! Most attacks will heal you back. \\n\\n&4&lBlood's&r Focus Material is &4Blood Vials&r which you get from cooking a Mob or Player in a Cauldron. \\n\\nIts &4Scrolls&r are Brown (there's no color for Brown) with &4Dark Red&r texts."]
 	quest.24150DE600C2D761.title: "&4&lBlood"
@@ -3780,7 +3780,7 @@
 	quest.24391162F4FF0587.title: "&bInfused Seashelf"
 	quest.244220A5D9F4C702.quest_desc: ["3 chunks apart, in case you didn't know that already"]
 	quest.244220A5D9F4C702.title: "End Layer Ores"
-	quest.2447208F1DC74FFE.quest_desc: ["Routers can be noisy, and noise definitely stacks when you have hundreds of them.\\n\\nMight be nice to invest in Muffer Upgrades then!"]
+	quest.2447208F1DC74FFE.quest_desc: ["Роутери можуть бути гучними, а шум посилюється, коли їх сотні.\\n\\nМожливо, варто інвестувати в покращення глушника!"]
 	quest.244ACD7024566001.quest_subtitle: "Feed a Sweat Bee Ice"
 	quest.244ACD7024566001.title: "Frosty Bee"
 	quest.24526FFBA093805A.quest_desc: [
@@ -3806,7 +3806,7 @@
 	quest.246CD1925FD6761C.quest_subtitle: "Tier 2 Base Upgrade"
 	quest.246DC099F4457712.quest_subtitle: "Find these with some lapis"
 	quest.246DC099F4457712.title: "Lazurite Vein"
-	quest.247DAE5B4E1AC7F1.quest_desc: ["Water in. \\nWater out. \\n\\nThe Fluid Module will either take Liquid Sources from near the Router and put it into a Tank in the Buffer or take Liquid from a Tank in it's Buffer and place it in front of it. \\n\\nOnly works for adjacent blocks to the Router, if you want bigger range you'll need..."]
+	quest.247DAE5B4E1AC7F1.quest_desc: ["Вода вхід. \\nВода вихід. \\n\\nМодуль рідини або забирає джерела рідини поруч із роутером і кладе їх у бак у буфері, або забирає рідину з бака в буфері й розміщує її перед собою. \\n\\nПрацює лише з сусідніми блоками, якщо потрібен більший радіус — знадобиться..."]
 	quest.2483DD28AC6E7EA2.quest_desc: [
 		"&eChemical React&r Chlorobenzene with the Nitration Mixture to make &2Nitrochlorobenzene&r"
 		""
@@ -4510,7 +4510,7 @@
 	quest.2B57C8D2F98A9279.title: "&l&7Pocket Storage"
 	quest.2B5E14A47062F83C.quest_subtitle: "The R in Roy G. Biv"
 	quest.2B5E14A47062F83C.title: "&cRed Xychorium Gems"
-	quest.2B60D123123A5E8E.quest_desc: ["Why set a location to where the Energy can go? Why not let it go free! \\n\\nLike freeing a bunch of Bees, the Energy will go everywhere almost instantly (with less buzzing). Any blocks needing Energy nearby will be charged wirelessly."]
+	quest.2B60D123123A5E8E.quest_desc: ["Навіщо задавати місце для енергії? Чому б не дати їй волю! \\n\\nЯк випустити рій бджіл — енергія розповсюдиться майже миттєво (тільки без дзижчання). Усі блоки поруч, яким потрібна енергія, будуть заряджені бездротово."]
 	quest.2B6AE772B72E6DD3.quest_desc: ["You may want to avoid falling into the Bacteria Solution. You'll probably survive, assuming you don't have any open cuts..."]
 	quest.2B6AE772B72E6DD3.quest_subtitle: "Don't Fall In"
 	quest.2B76B2F18C2C47D2.quest_desc: [
@@ -4735,7 +4735,7 @@
 	quest.2DB53A77C3CD90F1.quest_subtitle: "Tier: &b3"
 	quest.2DB81CE6F647D08A.title: "Unobtainium-Allthemodium Alloy"
 	quest.2DC639C39AE90272.quest_subtitle: "Yellow Meranti + Rose Gum"
-	quest.2DD5F0693780B10A.quest_desc: ["Used with the Extruder MK2, blocks extruded will mimic the actual blocks. Redstone Blocks will emit Redstone, Glowstone will emit light, Grass will act transparent. But only with this Augment! \\nDoesn't work with Block Entities like Furnaces or Enrichment Chambers."]
+	quest.2DD5F0693780B10A.quest_desc: ["Використовується з Extruder MK2 — блоки, що виштовхуються, імітують справжні блоки. Блоки редстоуну випромінюють редстоун, світлокамінь — світло, трава — прозорість. Але лише з цим доповненням! \\nНе працює з блоками-сутностями, як печі чи камери збагачення."]
 	quest.2DDA04088C8220D2.quest_desc: ["Prosperity Shards are a core crafting ingrediant in the mod. To find some Prosperity Ore, go mining."]
 	quest.2DDA04088C8220D2.quest_subtitle: "Can we finally have Prosperity?"
 	quest.2DDA04088C8220D2.title: "&bProsperity Shards"
@@ -4963,7 +4963,7 @@
 		"These are prebuilt structures that serve as a mini-base in the galaxy. Home away from home kinda thing."
 	]
 	quest.3017721842588919.title: "Space Stations"
-	quest.3025081DA6D2B398.quest_desc: ["Usually the Router commands the Modules but with this Augment the Module goes rouge! AWOl! Pure anarchy! \\n\\nIt will listen to it's own Redstone activation rather than the Routers."]
+	quest.3025081DA6D2B398.quest_desc: ["Зазвичай роутер керує модулями, але з цим доповненням модуль стає незалежним! Повний хаос! \\n\\nВін реагуватиме лише на власний сигнал редстоуну, а не роутера."]
 	quest.3027584AA6138E6D.title: "Conveyor Insertion \& Extraction"
 	quest.3029E1E133B91ED8.quest_desc: ["The &6Mechanical Drill&r can be used within a &aContraption&r or without. The without will need &dRotational Power&r but still does the same task. \\n\\nThe &6Mechanical Drill&r will Mine any Block in front of it (that it can). \\n\\nIt will Mine as fast as the &dRotational Power&r will give. And if there is an Inventory connected to the &aContraption&r, the Mined Block will be put into it, instead of on the floor. \\n\\nYes, the &6Drill&r has a limit, it only has Diamond Tier for Mining. So, no Mining &6AllTheModium&r!"]
 	quest.3029E1E133B91ED8.title: "&6Mechanical Drill"
@@ -5016,7 +5016,7 @@
 	quest.30954ADF34DB05A7.quest_subtitle: "Complex Alloy"
 	quest.309B0B2898893B4E.quest_desc: ["&b&lSteve's Carts&r is all about upgrading... well your Carts! \\n\\nWhat sort of upgrades? Pretty much everything but the kitchen sink! \\n\\nFrom Drills, to guns, to arcade machines! What more could you want with your Carts?"]
 	quest.309B0B2898893B4E.title: "&l&bSteve's Carts"
-	quest.309B6B8368E535A0.quest_desc: ["A Router does it's action every time it has one of it's ticks. \\n\\nDefault is 20 Ticks or 1 Second. \\n\\nThis can be made to less Ticks with the Speed Upgrade!"]
+	quest.309B6B8368E535A0.quest_desc: ["Роутер виконує дію кожного свого тіку. \\n\\nЗа замовчуванням це 20 тікiв або 1 секунда. \\n\\nЦе можна прискорити за допомогою покращення швидкості!"]
 	quest.30A61E1A1EFA81E6.quest_desc: ["&2Steeleaf&r is, technically an Ingot, found within Chests in &9&lThe Twilight Forest&r. \\nEach part of the Armor gives a different Enchantment!"]
 	quest.30A61E1A1EFA81E6.quest_subtitle: "20"
 	quest.30A61E1A1EFA81E6.title: "&2Steeleaf Armor"
@@ -5024,8 +5024,8 @@
 	quest.30AC43222FF9B18A.title: "&5Train Signals"
 	quest.30AD7B15682E4D0E.quest_desc: ["A smart Sign which can store and display arbitrary amounts of text, scaled so the text always fits.\\n\\nRight-click with any Dye to recolor the tile, you can color the border and the background independentrly."]
 	quest.30AD7B15682E4D0E.quest_subtitle: "Signs? Never heard of them!"
-	quest.30B0240543253EFB.quest_desc: ["Pylons is a wonderful mod made by our very own &aMutant Gumdrop&r!\\n\\nDon't let the size of the mod make you underestimate it! It provides many Pylons which can be used for many things to help make playing Minecraft easier.\\n\\nTo get started you'll need some Polished Blackstone to make them."]
-	quest.30B0240543253EFB.title: "&lPylons"
+	quest.30B0240543253EFB.quest_desc: ["Pylons — чудовий мод, створений нашим &aMutant Gumdrop&r!\\n\\nНе недооцінюйте його через невеликий розмір — він додає багато різних пілонів, які значно полегшують гру в Minecraft.\\n\\nДля початку вам знадобиться трохи полірованого чорнокаменю для їх створення."]
+	quest.30B0240543253EFB.title: "&lПілони"
 	quest.30B3BC91460C9B19.quest_desc: ["&bMacaw Sketch&r is a very popular Mod Developer. He is known for Decor Mods. \\nFrom Windows, to Pathways, to Drawers. He makes just about everything. \\n\\nCan you craft it all?"]
 	quest.30B3BC91460C9B19.title: "&bMacaw's Mods"
 	quest.30B7AF815D9D7553.quest_desc: [
@@ -5238,7 +5238,7 @@
 	quest.3260EDAD3A619479.quest_desc: ["&5Aethersent Ore&r is found during Meteorite Showers in &5&lEternal Starlight&r. Small ones break on impact, you'll need to wait for big Meteors! \\n\\nOr is it Meteorites? What's the difference?"]
 	quest.3260EDAD3A619479.quest_subtitle: "14"
 	quest.3260EDAD3A619479.title: "&5Aethersent Armor"
-	quest.326C63F7DC713E71.quest_desc: ["The Distributer is the half siblings of the Sender Modules. (The MK3 to be exact, on the MK2 side). \\n\\nInstead of sending to 1 Inventory it will send to multiple that are selected. \\n\\nIt can send in multiple modes: Round Robin, Random, Nearest First, or Farthest First. Round Robin does an even amount to each in a row, like a dealer in Poker. Random will randomly choose an inventory to feed. The others are determined by the distance from the Router."]
+	quest.326C63F7DC713E71.quest_desc: ["Розподільник — це ніби напівбрат модулів-відправників (а саме MK3, ближче до MK2). \\n\\nЗамість відправки в один інвентар, він може надсилати в декілька вибраних. \\n\\nМоже працювати в різних режимах: кругове розподілення, випадковий, найближчий або найдальший. Кругове розподілення дає кожному по черзі, як дилер у покері. Випадковий — обирає інвентар навмання. Інші — за відстанню від роутера."]
 	quest.32738F324B799879.quest_desc: [
 		"A hot barren world with large lava plains."
 		""
@@ -5276,8 +5276,8 @@
 	quest.32DF4BC46620F952.quest_desc: ["The &dAlchemy Catalyst&r can be placed under a &bMana Pool&r to allow it to perform &9Alchemy&r. This is useful to convert certain items into more useful items, like Rotten Flesh into Leather."]
 	quest.32E356FC9E63F63B.quest_desc: ["Processe the Rare earth for Small Piles of Samarium, then compress the pieces together for a full Dust piece."]
 	quest.32E356FC9E63F63B.quest_subtitle: "Samarai went to school at the Samarium"
-	quest.32E52AD6EF194A60.quest_desc: ["The Expulsion Pylon works as a way of keeping people off your lawn. \\n\\nWhen placed down it will keep any Players who aren't whitelisted from a set amount of Chunks around it. \\n\\nThe Chunks are set in it's GUI in the top left from 1x1, 3x3, or 5x5 Chunks. \\n\\nAlso no it can't be set too close to Spawn. We know what you trolls want and we ain't giving it! \\n\\nTo Whitelist players check the Player Filter Quest!"]
-	quest.32E52AD6EF194A60.quest_subtitle: "Get off my lawn!"
+	quest.32E52AD6EF194A60.quest_desc: ["Пілон вигнання допомагає тримати небажаних гравців подалі від вашої території. \\n\\nПісля встановлення він не дозволяє гравцям, які не в білому списку, заходити у певну кількість чанків навколо себе. \\n\\nРозмір області можна обрати у його інтерфейсі у верхньому лівому куті: 1x1, 3x3 або 5x5 чанків. \\n\\nТакож його не можна розмістити занадто близько до спавну. Ми знаємо, чого хочуть тролі, і цього не буде! \\n\\nЩоб додати гравців у білий список, перегляньте квест про Фільтр гравців!"]
+	quest.32E52AD6EF194A60.quest_subtitle: "Геть з моєї території!"
 	quest.32E9B33C9D7981ED.quest_desc: [
 		"Okay yes, you could've made Glycerol&r without the &aLCR&r, but then you wouldn't be able to make it in large batches!"
 		""
@@ -5418,7 +5418,7 @@
 		"But with the Superconductor wire, now you wont have to worry about power loss for your ZPM Machines and Multiblocks!"
 	]
 	quest.346A926E23840EF7.quest_subtitle: "ZPM Superconductor"
-	quest.346B9339E3D66478.quest_desc: ["Energy is something used by practically everything so you need to send it almost everywhere. Thankfully the Energy Module will help with that! \\n\\nThe Energy Module will move any energy pushed into it, somewhere else! To wherever you set it to!"]
+	quest.346B9339E3D66478.quest_desc: ["Енергія потрібна майже для всього, тож її треба передавати всюди. На щастя, енергетичний модуль допоможе! \\n\\nВін переміщує будь-яку енергію, що надходить у нього, куди ви вкажете!"]
 	quest.3475E12711B6BB98.quest_desc: ["This machine is mostly for extracting dyes from flowers, or ore blends back into their components."]
 	quest.3475E12711B6BB98.quest_subtitle: "Separates Items into their Crafting Components"
 	quest.3497C2E05DF5A87C.quest_desc: ["&cRedstone&r, &9Lapis&r, Quartz, &5Amethyst&r, &aEmerald&r, and &bDiamonds&r are all precious Gems. \\n\\nSo of course we are turning them into Blocks, very pretty precious Blocks to be exact!"]
@@ -5656,7 +5656,7 @@
 	quest.36D72D759C4E8823.quest_subtitle: "Max: 1"
 	quest.36DEA17CBB696CC7.quest_desc: ["If you right-click on the Plug, you'll see the Flux Network UI. On the far top-right corner, click on the + button to create your first network. You'll need to set a password to create the network, but you can also set a color!\\n\\nFrom here, you can go to the Network Selection tab to activate your network on the Plug. If the Plug is attached to a power source, you can now harness that power anywhere in your system using a Flux Point!\\n\\nPro Tip: You can create multiple networks if you want to have different power sources powering different parts of your systems!"]
 	quest.36DEA17CBB696CC7.quest_subtitle: "Becoming a Network Admin!"
-	quest.36DED7099E80ED51.quest_desc: ["This one does as the name suggests, it places Blocks. \\n\\nSet the Direction you want the Block placed, preferably set the Filter, then throw the Module and Blocks into the Router! Once the Redstone is set the Blocks will be placed!"]
+	quest.36DED7099E80ED51.quest_desc: ["Цей модуль робить саме те, що у назві — розміщує блоки. \\n\\nВкажіть напрямок, у якому потрібно розмістити блок, бажано встановіть фільтр, потім покладіть модуль і блоки в роутер! Коли подасте сигнал редстоуну — блоки будуть розміщені!"]
 	quest.36DF0D83EBC2B6A9.quest_desc: [""]
 	quest.36DF0D83EBC2B6A9.quest_subtitle: "&oLack of wisdom is a thing of the past with this."
 	quest.36DF0D83EBC2B6A9.title: "&3&lImprobable Probability Device"
@@ -5782,7 +5782,7 @@
 		"{image:atm:textures/questpics/hnn.png width:150 height:150 align:center}"
 	]
 	quest.37EBB8E0D6E5F821.title: "Welcome to &9Hostile Neural Networks&r!"
-	quest.37F2BE3C2BAF7C2D.quest_desc: ["Tags are an essential part of Minecraft. \\n\\nFor all who don't know they work as an organization tool to help choose similar items for the same task. Like Crafting Table being made with any Planks or Trees being Chopped down fastest with any Axe. \\n\\nTo filter by Tag put an item in, then select the tag from the groups. Like Iron Ore for Ores."]
+	quest.37F2BE3C2BAF7C2D.quest_desc: ["Теги — важлива частина Minecraft. \\n\\nДля тих, хто не знає: вони допомагають організовувати подібні предмети для однакових завдань. Наприклад, верстак можна зробити з будь-яких дощок, а дерева рубати будь-якою сокирою. \\n\\nЩоб фільтрувати за тегом, покладіть предмет, потім виберіть тег із груп. Наприклад, залізна руда для руд."]
 	quest.380D3212D1CBA593.quest_desc: [
 		"The medium sized &cRot Mob&r, the &cRotwalker&r. \\n\\nThey have 20 Hearts. \\n\\nLike all &cRot Mobs&r they will target &2Stoneborns&r and &7Forgottens&r and will drop &cUtheric Shards&r."
 		"{image:atm:textures/questpics/undergarden/undergarden_rotwalker.png width:100 height:200 align:center}"
@@ -5804,7 +5804,7 @@
 	quest.3863B33438AB5BBD.quest_subtitle: "HSLA Dust"
 	quest.3889D0255074CE85.quest_desc: ["&bMacaw&r decided the furniture wasn't enough, he needed his Macaw home to have more than just natural lighting from his &b&lMacaw Windows&r. \\n\\nSo now we have &b&lMacaw's Lights and Lamps&r which adds all sorts of Light Sources. \\n\\nFrom Lamps to Lanterns to Chanderliers!"]
 	quest.3889D0255074CE85.title: "&l&bMacaw's Lights and Lamps&r"
-	quest.38954551309F42A7.quest_desc: ["Sender Module MK2 works similar to MK1 but with less restrictions. \\n\\nMK2 doesn't need direct line of sight or to be on same XYZ axis. \\n\\nWill have to be in the same Dimension though, unless you have..."]
+	quest.38954551309F42A7.quest_desc: ["Модуль-відправник MK2 працює схоже на MK1, але з меншими обмеженнями. \\n\\nMK2 не потребує прямої видимості чи однакової осі XYZ. \\n\\nАле має бути в тій самій вимірі, якщо тільки у вас немає..."]
 	quest.38A1295878B68F83.quest_desc: [
 		"No, not that kind."
 		""
@@ -6182,7 +6182,7 @@
 	quest.3C322474D2F2BA99.title: "Allthemodium Dimensions"
 	quest.3C3FE45CEF5E242B.quest_desc: ["While the other &aReprocessor Parts&r have a mandatory spot when building, these three parts can be placed on any vertical face as long as they aren't on the frame!\\n\\nThe &cPower Port&r is used to give power to the multiblock machine to process waste.\\n\\nThe &9Fluid Injector Port&r is used to inject the liquid needed, which will depend on the type of waste injected. For Cyanite, that means water!\\n\\nThe &aOutput Port&r is used to output the reprocessed material. You can right click it to grab the material out by hand, or pipe it out for automation."]
 	quest.3C413D4A210A3BDE.title: "Honey Bee"
-	quest.3C54C36CE97A48DC.quest_desc: ["Droppers drop,\\nDispensers dispense, \\nAnd Flingers fling! \\n\\nInstead of nicely setting down items from the Buffer, the Flinger Module will throw them? How far? You determine that!"]
+	quest.3C54C36CE97A48DC.quest_desc: ["Викидачі викидають,\\nроздавачі роздають, \\nа жбурлячі жбурляють! \\n\\nЗамість акуратно класти предмети з буфера, модуль Flinger їх жбурляє. Як далеко? Вирішувати вам!"]
 	quest.3C5734448FEC128B.quest_desc: ["The cheapest Divination Rod, the Glass Divination Rod. \\n\\nIt can find all Ores that a Stone Pickaxe can mine. So Copper, Coal, and Iron. Nothing higher."]
 	quest.3C5A5432E6B1EF9E.quest_desc: [
 		"We got our Spawner, we got some way of moving the spawned in Mobs, now how do we get &4Blood&r from them? \\n\\nWe can use Spikes or Mob Mashers to kill them normally but if we want &4Blood&r from them we should use a &4Powered Sanguinary Pedestal&r with &7Spiked Plates&r on top of them! \\n\\nWhen on top of a &4Pedestal&r, &7Spiked Plates&r will deal damage to Mobs that hit them and deposit that &4Blood&r into the &4Pedestal&r. The more &4Health&r the Mobs have, the more &4Blood&r you can get! \\n\\nThe &4Blood&r will be in Fluid Form and can be moved with Pipes from the &4Pedestal&r to our &c&lForge&r."
@@ -6625,7 +6625,7 @@
 		""
 		"At HV+ you can Ore Process Bauxite or Sphalerite as another method of obtaining gallium"
 	]
-	quest.403F76908A8A5661.quest_desc: ["The Explusion Pylon pushes players out of the area, but what if you want &lsome&r players nearby! Then you'll need a Player Filter. \\n\\nRight Click a Player with it to set them in it, and then put it into the Pylon to Whitelist them! \\n\\nSo when everyone else is pushed out, your friend won't be! \\n\\nAlso by default the Owner of the Pylon won't get expuled."]
+	quest.403F76908A8A5661.quest_desc: ["Пілон вигнання виганяє гравців із території, але якщо ви хочете, щоб &lдеякі&r гравці залишалися поруч — знадобиться Фільтр гравців. \\n\\nКлацніть правою кнопкою миші по гравцю цим фільтром, щоб додати його, а потім вставте фільтр у пілон для додавання у білий список! \\n\\nТож коли всіх інших вижене, ваш друг залишиться! \\n\\nТакож власника пілона за замовчуванням не виганяє."]
 	quest.4040BFCD4BE56621.quest_desc: [
 		"The &6Honey&r Hotel (Honitel) is a big and relatively safe structure, besides fall damage. \\n\\nIt has dozens of rooms for &6B&8e&6e&8s&r to stay in. Also in the rooms is plenty of loot for you to take. \\n\\nI just hope you can feel guilty for stealing it from these innocent &6B&8e&6e&8s&r.\\n"
 		"{image:atm:textures/questpics/bumblezone/bumble_honitel.png width:200 height:100 align:center}"
@@ -6654,7 +6654,7 @@
 		"{image:atm:textures/questpics/eternal/starlight_maze.png width:150 height:150 align:center}"
 	]
 	quest.40786B63E2901D11.title: "Cursed Garden"
-	quest.40788326E791845D.quest_desc: ["Extrude is such a prude word. \\n\\nThe Extruder will place the blocks in the Router's Buffer in a line in front of the Router when given a Redstone Signal. When the Signal is disabled it will break all those blocks. \\n\\nUseful for Doors!"]
+	quest.40788326E791845D.quest_desc: ["Extrude — таке дивне слово. \\n\\nExtruder розміщує блоки з буфера роутера в лінію перед ним, коли подається сигнал редстоуну. Коли сигнал вимикається — ламає всі ці блоки. \\n\\nКорисно для дверей!"]
 	quest.407C2D00F22BD89D.quest_desc: ["This Upgrade gives space for 6 more Bullets! Making the total up to 14."]
 	quest.407E853A5B322E13.quest_desc: [
 		"Next up, we need to find the &aRefinery&r in the &eHeavy Machinery&r category of our manual. "
@@ -6758,7 +6758,7 @@
 	quest.414A35A72AFB5FF5.quest_desc: ["This one is probably one of the most annoying to craft, it needs &bPrismarine&r, &2Turtle Scute&r, &9Lapis&r, and a &3Heart of the Sea&r. \\n\\nHope you like &2&lMA&r! \\n\\nIt combines with Helmets... most likely to give Respiration or Aqua Affinity, but I can't get it to work..."]
 	quest.414A35A72AFB5FF5.title: "&9Sea Prism"
 	quest.41752862D7B29F80.title: "High Voltage Age"
-	quest.417B88FEB1B8F44E.quest_desc: ["Mean these Suck! Literally! \\n\\nVacuum Module will suck up any items in the set area and move them to the Routers Buffer. Similar to the Absorption Hopper. \\n\\nAlso can be used with Experience Augment!"]
+	quest.417B88FEB1B8F44E.quest_desc: ["Вони дійсно всмоктують! Буквально! \\n\\nВакуумний модуль всмоктує всі предмети в заданій області та переміщує їх у буфер роутера. Схоже на Absorption Hopper. \\n\\nТакож може працювати з доповненням на досвід!"]
 	quest.4189BC3DFB551F4C.quest_desc: ["If you've built the Turbine properly, you will see red particles around the structure. Right clicking on the Turbine will open up the interface.\\n\\nThis will tell you all of the information that you need to know, including the total Steam Flow Rate, as well as the total Steam inside of the Turbine.\\n\\nOn the right, you will have a bar that shows you the Power that is stored inside of the Turbine. If this gets full, the Turbine will turn off, unless you set it to Vent Overflow.\\n\\nLet's get it running!\\n\\nOnce you have a fully functioning Fission Reactor, pump out the &bSteam&r directly into a Turbine Valve on your Turbine. Since we're using Saturating Condensers in this build, you can pump out water from a Turbine Vent back into your Reactor if you want."]
 	quest.4189BC3DFB551F4C.title: "Creating Power with the Turbine!"
 	quest.418E02FFE241A734.quest_desc: ["Liquid Helium Plasma. Ensure your processing lines are making enough Helium"]
@@ -7383,7 +7383,7 @@
 	quest.4745488579AAF603.quest_subtitle: "&f5.8 &cAttack Damage"
 	quest.47592C1D5CD8E8B5.quest_desc: ["Using this mixer will allow you to save the dust that would normall fall on the floor, giving better returns for mixing dusts into alloys. This can also be used to turn certain blocks into other blocks, such as sand into clay! Useful when you start to need a lot of clay for blast furnaces..."]
 	quest.475B63AF0E87E318.title: "&4Supremium Watering Can&r"
-	quest.475E1B94A61B9EB0.quest_desc: ["Like the MK1 this pulls! Just not only from adjacent Inventories, but any Inventory nearby!"]
+	quest.475E1B94A61B9EB0.quest_desc: ["Як і MK1, цей модуль тягне предмети! Але не лише з сусідніх інвентарів, а з будь-яких поруч!"]
 	quest.475E307844E3AF7F.quest_desc: [
 		"The Water Boilers are some of the most helpful machines from &l&7RailCraft&r. They need a Fuel Firebox and some sort of boiler on top. The Fueled Firebox can be 1x1 2x2 or 3x3. The size of the Firebox changes how big the Boiler on top can be. For 1x1 Firebox it can only have 1x1 Boiler. For 2x2 Firebox it can be a 2x2x3 Boiler. For 3x3 Firebox it can be 3x3x4. The Liquid Fuel will take Creosote to heat up. For Solid Firebox it'll use anything a furnace can use."
 		"{image:atm:textures/questpics/railcraft/rail_big_boiler.png width:100 height:100 align:center}"
@@ -7631,7 +7631,7 @@
 	quest.49F57CE3B472FF6D.title: "Altering the Altar"
 	quest.49FDD8666356A3E7.quest_desc: ["We can use either or both &2Blastproof Casing&r or 256M Portable Item Cells to Craft the &3&lImprobable Probability Device&r. \\n\\nWait did I say either or both? \\n\\nYes I did! We can use 2 &2Blastproof Casings&r or 2 256M Portable Item Cells or one of each."]
 	quest.49FDD8666356A3E7.title: "Either or &2Blastproof Casings&f and 256M Portable Item Cells"
-	quest.4A03A671757B2EBF.quest_desc: ["Durability, Fluid Level, Energy Level, Enchantment Level, and Food Value are all categories we can use with Inspection Filter.\\n\\nThen we select if we want it Greater than, Lesser than, Equal to, or a mix of those with the Numbered Amount.\\n\\nNext we give it a Numbered Amount and hit the Plus Button to add it to the Filter.\\n\\nThis can be used to only keep Tools with high Durability or Food with high Food Value."]
+	quest.4A03A671757B2EBF.quest_desc: ["Міцність, рівень рідини, рівень енергії, рівень чарів і поживна цінність — це все категорії, які можна використовувати з інспекційним фільтром.\\n\\nДалі обираємо, чи потрібно більше, менше, дорівнює або комбінацію з певною кількістю.\\n\\nПотім задаємо кількість і натискаємо кнопку плюс, щоб додати до фільтра.\\n\\nЦе дозволяє залишати лише інструменти з високою міцністю або їжу з високою поживністю."]
 	quest.4A05C037C0EE40BD.quest_desc: ["Logic Cables are different from other cables. Other Cables act as Hoppers, the items move from 1 Inventory, into the cable, then into the 2nd inventory. Logic Cables just skip the middle man which also skips a lotta lag.\\n\\nThey are just for connecting Importers and Interfaces."]
 	quest.4A05C037C0EE40BD.quest_subtitle: "Making Networks"
 	quest.4A05C037C0EE40BD.title: "Logic Cables"
@@ -7976,7 +7976,7 @@
 	quest.4CADD50E7E83CD0E.title: "Block of Emerald 4X"
 	quest.4CB488E5CF10F3A4.quest_desc: ["Only the most powerful and expensive Generator from &c&lGenerator Galore&r. \\n\\nYou'll need an &9Echo Shard&r, a &bConduit&r, and a ton of Netherstar Generators!"]
 	quest.4CC46A4E71320140.quest_desc: ["Refer to the &aLexica Botania&r on how to use this lens."]
-	quest.4CC963F5AECF285A.quest_desc: ["Normally the Router moves 1 item each of it's Ticks. This can be doubled and stacked! with the Stack Upgrade. \\n\\n1 Stack Upgrade is 2 Items, 2 Stacks 4 Items, and 6 Stacks is 64 Items a second."]
+	quest.4CC963F5AECF285A.quest_desc: ["Зазвичай роутер переміщує 1 предмет за свій тік. Це можна подвоїти та збільшити за допомогою покращення стосу. \\n\\n1 покращення — 2 предмети, 2 покращення — 4 предмети, а 6 покращень — 64 предмети за секунду."]
 	quest.4CCA1E2AAA9AB9D9.quest_desc: [
 		"When's this one going to come to the Mod?"
 		"{image:atm:textures/questpics/iron_spells/spells_outfit_electromancer.png width:50 height:100 align:center}"
@@ -8256,7 +8256,7 @@
 		"Place 1 lava source block on one side, and 1 water source block on the other, and it will generate cobblestone. Check the recipes to see the other kinds of stone you can create!"
 	]
 	quest.4EA8BA9753D0DD81.quest_subtitle: "A Cobblestone Generator"
-	quest.4EAFE7B240AF0A4D.quest_desc: ["Just can't reach what you need to? Try Ranging Up! \\n\\nWith this everything will do their actions but farther. Vacuum has higher range for picking up items. Energy goes farther. Flinger flings with more strength!"]
+	quest.4EAFE7B240AF0A4D.quest_desc: ["Не можете дотягнутися до потрібного? Спробуйте збільшити радіус! \\n\\nЗ цим усі дії виконуватимуться на більшій відстані. Vacuum Module підбиратиме предмети далі. Енергія передаватиметься далі. Flinger Module кидатиме сильніше!"]
 	quest.4EB7245727EE1EF9.quest_subtitle: "Tier: &63"
 	quest.4EBED8ABC8C863A4.title: "&aRank 3&r: Even More &cBlood"
 	quest.4ECFB1256BD6A7AA.quest_desc: [
@@ -8381,7 +8381,7 @@
 	quest.4FA156C383C9C438.quest_desc: ["&eKoboletons&r are mini Dino Skeletons who serve the &e&lAncient Remnant&r. \\n\\nThey only have 12 and a half &4Hearts&r and attack you with their Khopesh. \\n\\nThey can drop their weapon, along with their Bones, and Ancient Metal Nuggets."]
 	quest.4FA156C383C9C438.quest_subtitle: "Mini Dinos!"
 	quest.4FA156C383C9C438.title: "&eKoboletons"
-	quest.4FA5192164E4A427.quest_desc: ["Fluid doesn't stack like Items do, so its upgrade is a little different. Still moves more just at a different rate."]
+	quest.4FA5192164E4A427.quest_desc: ["Рідина не складається в стоси, як предмети, тому її покращення трохи інше. Все одно переміщує більше, але з іншою швидкістю."]
 	quest.4FA6BEA4E646B742.quest_desc: ["Before we can start building our reactor, we'll need to smelt some Coal or Charcoal to create &9Graphite Ingots&r.\\n\\nGraphite, coupled with Iron, is one of the main materials when making a Reactor."]
 	quest.4FA6BEA4E646B742.quest_subtitle: "Hardened Carbon"
 	quest.4FA6BEA4E646B742.title: "Graphite for Casings"
@@ -8808,7 +8808,7 @@
 		"Here's a good example of using Modular Routers to make a super easy organized Mob Farm. (Does not include way of killing mobs). \\n\\nFor it I'll use a Wither Skeleton Farm as example. \\n\\nFirst, you want to get Items into the Buffer with a Vacuum Module. Next, get rid of the Stone Swords with a Void Module. To make sure it doesn't delete everything use a Whitelist Filter with the Stone Sword in it and not matching Damage. After, that you'll need a place to put the Loot, I recommend a Drawer System. Then, use a Sender Module to send the Loot to the Storage System. \\n\\nThat's all you need!"
 		"{image:atm:textures/questpics/router/router_mob.png width:200 height:65 align:center}"
 	]
-	quest.53A5F5E49EA8D5AF.title: "Routers for Mob Farms"
+	quest.53A5F5E49EA8D5AF.title: "Роутери для мобоферм"
 	quest.53A79338994088FD.quest_desc: ["The &dTri-Bow&r is dropped from the &3Snow Queen&r, it can shoot 3 Arrows at the same time, while only using 1."]
 	quest.53A79338994088FD.quest_subtitle: "From a Lynel?"
 	quest.53A79338994088FD.title: "&dTri-Bow"
@@ -8819,7 +8819,7 @@
 	]
 	quest.53B44E24BB111D24.quest_desc: ["Cheaper IV tier as well?! This just keeps getting better!"]
 	quest.53B44E24BB111D24.quest_subtitle: "IV"
-	quest.53B58FC3958750E7.quest_desc: ["Did you play around with the Placer too much and need to Break those Blocks? \\n\\nIts Tier and Enchants are determined by the Pickaxe its Crafted with. \\n\\nNow set the area and hopefully put a Filter and let it run! \\n\\nCan be used with a Placer to do stuff like turning Ores into Items."]
+	quest.53B58FC3958750E7.quest_desc: ["Забагато гралися з Placer і тепер треба зламати ці блоки? \\n\\nЇхній рівень і чари залежать від кирки, з якою вони скрафчені. \\n\\nВкажіть область, бажано додайте фільтр, і дайте йому працювати! \\n\\nМоже використовуватись разом із Placer, наприклад, для перетворення руд на предмети."]
 	quest.53BA0C64804ADD24.quest_subtitle: "Pomelo + Wild Cherry"
 	quest.53BBE717148C0B18.quest_subtitle: "Lots of iron in these ores"
 	quest.53BBE717148C0B18.title: "Goethite Vein"
@@ -9011,7 +9011,7 @@
 	quest.553220A2CD7CAFE4.quest_subtitle: "All Wrapped up"
 	quest.55328778D7078E24.title: "Medium Voltage Age"
 	quest.553ADA7040B652CD.quest_desc: ["The &4&lMining Drill&r, &2&lBuzzsaw&r, and &b&lChemical Thrower&r normally hold 1,000mB or 1 Bucket worth of &bFluid&r. \\n\\nNormally doesn't mean always! With the Large Tank they can now hold 2,000mB or 2 Buckets worth. \\n\\nIt doesn't sound like a lot but trust me it is."]
-	quest.553C44F85E508DE3.quest_desc: ["This one is unique as it's not used for just 1 Router but for multiple. \\n\\nIf you want mutliple Routers working at the same time then each needs a Sync Upgrade. \\n\\nWill need to be tuned in its own GUI."]
+	quest.553C44F85E508DE3.quest_desc: ["Цей модуль унікальний, бо використовується не для одного, а для кількох роутерів. \\n\\nЯкщо хочете, щоб кілька роутерів працювали одночасно — кожному потрібне покращення синхронізації. \\n\\nПотрібно налаштувати у власному GUI."]
 	quest.553DD7CBD4351A71.title: "&bVibranium Tools&r"
 	quest.554389C781241743.title: "Molybdenum Vein"
 	quest.554F47A0AF7506EC.quest_subtitle: "59,049 End Stone"
@@ -9020,7 +9020,7 @@
 		"{image:atm:textures/questpics/iron_spells/spells_cryomancer.png width:100 height:200 align:center}"
 	]
 	quest.555ED1E39131D91B.title: "&b&lCryomancer"
-	quest.5560F303C452E110.quest_desc: ["The Extruder pushes blocks and entities by why not push it some more! \\n\\nThe entities not the blocks."]
+	quest.5560F303C452E110.quest_desc: ["Extruder Module виштовхує блоки та сутності, але чому б не виштовхнути ще більше! \\n\\nСутності, а не блоки."]
 	quest.5561EB1E3DD77EC5.quest_desc: [
 		"UHV Energy Hatch. We have finally reached the Pinnacle of Energy Hatches!"
 		""
@@ -9582,13 +9582,13 @@
 	quest.5B556192F060F3F1.quest_desc: ["&5Refined Obsidian&r will be important for many &eItems &fand &5Machines&r within &5&lMekanism&r especially at &d&lUltimate Tier&r. \\nFirst, we'll need to &3Crush &5Obsidian&f to get &5Obsidian Dust&r. Obviously you need to use a &4&lCrusher&r for that. \\n\\nThen, we can use the &9&lMetallurgic Infuser&r to &9Infuse&f the &5Obsidian Dust&r with &bChemical Diamond&r. I'd recommend using &bEnriched Diamonds&r to get the most bang for your buck! \\n\\nNow we get a few choices of what to do with it, either &dEnrich&r it to get more &5Chemical Refined Obsidian&r or..."]
 	quest.5B556192F060F3F1.title: "&5Refined Obsidian Dust"
 	quest.5B5FC539BD1F4A73.quest_desc: [
-		"This Pylon is all about blocking Mob Spawns. "
+		"Цей пілон призначений для блокування появи мобів."
 		""
-		"You can use Mob Filters to block spawns of only certain Mobs or use the Lifeless Filter to block all Mob spawns! "
+		"Ви можете використовувати фільтри мобів, щоб блокувати спавн лише певних істот, або ж Lifeless Filter, щоб повністю заборонити появу всіх мобів!"
 		""
-		"You can stack multiple Mob Filters to block off more spawns. Plus you can change the Working Area for how far it blocks those Mob Spawns. "
+		"Можна комбінувати кілька фільтрів мобів для розширення захисту. Також можна змінювати робочу область, щоб контролювати, на якій відстані блокуються спавни мобів."
 		""
-		"If you use the Lifeless Filter it will ignore all those settings."
+		"Якщо використовується фільтр Lifeless, він ігнорує всі ці налаштування."
 	]
 	quest.5B64384E4CE27851.quest_subtitle: "Banded Iron Vein"
 	quest.5B64384E4CE27851.title: "Goethite Vein"
@@ -9666,17 +9666,17 @@
 	quest.5C2B30655A44227F.quest_desc: ["Oh did you think &5&lEternal Starlight&r will have you get all these Metals the easy way? \\n\\nHA! don't be stupid. You'll have to fight Bosses, dig through Mud, and look for Meteor Showers!"]
 	quest.5C2B30655A44227F.title: "&5&lEternal Starlight&r Metals"
 	quest.5C2C29ECA67F9B49.quest_desc: [
-		"With the Lifeless Filter you will never have to worry about any Mob spawns within a 25x25 Chunk area. "
+		"З &fLifeless Filter&r тобі більше не доведеться турбуватися про появу мобів у зоні 25x25 чанків."
 		""
-		"This doesn't include Forced Spawns though, that is Mobs spawned from Spawners or even Spawn Eggs!"
+		"Проте це не стосується примусових появ, тобто мобів зі спавнерів чи з яєць призову!"
 		""
-		"The 25x25 will cover every distance Mobs spawn near the player. Hostile or Passive. "
+		"Ця зона 25x25 покриває всю відстань, на якій можуть з'являтися моби біля гравця — і ворожі, і мирні."
 		""
-		"This includes every Y Level as well, above or below the Pylon, so no more worrying about lighting up caves! "
+		"Фільтр діє на всі рівні висоти, вище й нижче за пілон, тож можна забути про освітлення печер!"
 		""
-		"There's no Whitelisting with this Filter, it will prevent every Mob Spawn."
+		"Жодних виключень — цей фільтр блокує появу будь-яких мобів."
 	]
-	quest.5C2C29ECA67F9B49.quest_subtitle: "Finally peace and quiet. "
+	quest.5C2C29ECA67F9B49.quest_subtitle: "Нарешті тиша й спокій."
 	quest.5C38DAD6BA43A7F1.quest_desc: ["Take that Acetic Acid and add more Ethylene and Oxygen, this time on &aProgram 3&r in a &eChemical Reactor&r"]
 	quest.5C3FF43CF16BCF30.quest_desc: ["With Source Gems, you can get started crafting the various machines by creating &5Sourcestones&r."]
 	quest.5C3FF43CF16BCF30.quest_subtitle: "Formerly \"Arcane Stones\""
@@ -10084,7 +10084,7 @@
 		""
 		"This serves as the base for all the microprocessor circuits"
 	]
-	quest.5FB29F3F4DF17765.quest_desc: ["Sometimes you don't want every Module to move multiple stacks at a time, so when you just want 1 Modules to do so use an Augment! This does not stack with Upgrades though... infact it overrides them."]
+	quest.5FB29F3F4DF17765.quest_desc: ["Іноді не потрібно, щоб кожен модуль переміщував кілька стосів одночасно, тому якщо потрібно, щоб лише один модуль це робив — використовуйте доповнення! Але воно не сумується з покращеннями, а навіть їх перекриває."]
 	quest.5FC92F3794004A98.quest_subtitle: "Rippling Willow + Soul Tree"
 	quest.5FCA6F5FE97780B7.quest_desc: [
 		"&eGronglets&r are technically Blocks not Mobs. But I love them too much to not include them! \\n\\nThey spawn on Grongle Trees and emit Noise and Light! Definitely perfect for decoration."
@@ -10154,7 +10154,7 @@
 	quest.60406190B0DCB348.quest_desc: ["Just like the Bronze Compressor, but gives even more recipes!"]
 	quest.604F2B68B27885BF.quest_desc: ["There are a lot of different foods you can make from the &9Twilight Forest&r!\\n\\nTry them all!"]
 	quest.604F2B68B27885BF.title: "Fancy Noms"
-	quest.6063F4B7BE4D394C.quest_desc: ["The Sender Modules will move Items in the Router's Buffer Slot into another Inventory. \\n\\nMK1 will only move items into Inventories on the same XYZ axis as the Router and with direct line of sight. If there is a block in the way, the MK1 Sender will not send."]
+	quest.6063F4B7BE4D394C.quest_desc: ["Модулі-відправники переміщують предмети з буфера роутера в інший інвентар. \\n\\nMK1 переміщує предмети лише в інвентарі на тій самій осі XYZ, що й роутер, і за прямої видимості. Якщо між ними є блок, MK1 не відправить предмет."]
 	quest.606775701551F3EE.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_carminite.png width:100 height:150 align:center}"]
 	quest.606775701551F3EE.title: "&4Carminite"
 	quest.606780E5B8CF83BE.quest_desc: ["{atm9.quest.enchant.desc.echo_sculk}"]
@@ -10540,8 +10540,8 @@
 		"These byproducts are often incredibly useful and will come in handy multiple times as you progress"
 	]
 	quest.63E4149FF75592C8.title: "Ore Processing Upgrade"
-	quest.63E4529AF8894018.quest_desc: ["&lModular Routers&r is a logistics mod. \\n\\nIt all starts with the Router! So make one! \\n\\nAlso the Buffer is the single item slot in the Router where items will come and go through. And it will need Redstone signal for most modules to work."]
-	quest.63E4529AF8894018.title: "&lModular Routers"
+	quest.63E4529AF8894018.quest_desc: ["&lModular Routers&r — це мод на логістику. \\n\\nВсе починається з роутера! Тож створіть його! \\n\\nБуфер — це єдиний слот для предметів у роутері, через який предмети входять і виходять. Для більшості модулів потрібен сигнал редстоуну."]
+	quest.63E4529AF8894018.title: "&lМодульні Роутери"
 	quest.63F41475236F99D2.quest_desc: ["\"Hey Kid, I got some X-Ray Hacks, you want some?\" \\n\\nThe &8Seismic Vibrator &fand &8Seismic Reader&r work together to tell us what Blocks are beneath us. \\n\\nThe &8Seismic Vibrator&r is a &5Machine&r. It will need &aEnergy&r and once supplied, it will \"&8Vibrate&r\" the Chunk it is placed. \\n\\nThe &8Seismic Reader&r is an &eItem&r and will also need &aEnergy&r! If it isn't in the same Chunk of a &8Vibrator&r it won't work. \\n\\nIf it is, it will open up. The Screen will allow us to see the different Blocks at each Y Level below the Block you are standing on. \\n\\nIt is definitely not perfect, but it sure is helpful! Even for just finding Caves!"]
 	quest.63F41475236F99D2.title: "Seismic Cheats"
 	quest.63F5314A1072FA05.quest_desc: [
@@ -10741,8 +10741,8 @@
 		""
 		"Cables and wires will burn if given more amps than they are rated for"
 	]
-	quest.6648BC7D14233006.quest_desc: ["Augments are similar to Upgrades but for the individual Modules!"]
-	quest.6648BC7D14233006.title: "&lAugments"
+	quest.6648BC7D14233006.quest_desc: ["Доповнення схожі на покращення, але для окремих модулів!"]
+	quest.6648BC7D14233006.title: "&lДоповнення"
 	quest.665B4A8FF5277316.quest_desc: ["Makes gravity affect a Mana Burst, making it move in an arc. It also slightly increases the time before it starts to lose mana."]
 	quest.665C3A14C987E9C6.quest_subtitle: "&f5.5&r &4Damage&r"
 	quest.666EA8B8F13EB292.quest_desc: ["This item is used to capture mobs for transport or storage. It's also needed for the &6ATM Star&r."]
@@ -10842,7 +10842,7 @@
 	quest.674A6B0EDA0D348B.quest_subtitle: "Teak + Mangrove"
 	quest.674E2690D66ECD6E.quest_desc: ["When it's a thunderstorm, throwing in a &aWeather Container&r into the &aEnvironmental Accumulator&r will harness the power of the storm.\\n\\nUsing this, we can create items that allow us to control Lightning at will.\\n\\nYou will need a Lightning Bomb to craft the &6ATM Star&r."]
 	quest.674E2690D66ECD6E.title: "&aYou've Been &9Thunderstruck"
-	quest.674F28BCA2E4A3C8.quest_desc: ["When moving items Routers can get pretty greedy, taking every single item they can get their grubby antennas on! \\n\\nWith Regulator Augment you can limit how much is moved."]
+	quest.674F28BCA2E4A3C8.quest_desc: ["Під час переміщення предметів роутери можуть бути дуже жадібними, забираючи все, що можуть! \\n\\nЗ регулятором-доповненням ви можете обмежити кількість переміщуваного."]
 	quest.6751F2651063B3A5.quest_desc: ["Blood Mushrooms can be found within their Bogs. \\n\\nThey are shaped like Dark Oak Trees and are mostly White with only some blocks having Blood spots on them!"]
 	quest.6754612E9AD4B9C0.title: "Reactor (Blazing)"
 	quest.676BC41C19BEF1FC.quest_desc: [
@@ -11331,7 +11331,7 @@
 	quest.6B5BC33667C782EC.title: "&dEnder Golem&r"
 	quest.6B671CB07D046BEC.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_diamond.png width:100 height:150 align:center}"]
 	quest.6B671CB07D046BEC.title: "&bDiamond&r"
-	quest.6B747129A85AA768.quest_desc: ["Now even more like the Absorption Hopper! \\n\\nVacuum Module will now pickup XP Orbs as well as Items. Whatever you do with the XP is up to you!"]
+	quest.6B747129A85AA768.quest_desc: ["Тепер ще більше схоже на Absorption Hopper! \\n\\nVacuum Module тепер підбирає не лише предмети, а й сфери досвіду. Що робити з досвідом — вирішувати вам!"]
 	quest.6B78378BC8036227.title: "Tier 1 Grader Catalyst"
 	quest.6B8040401B512E50.quest_desc: ["The &3&lC.D.C.&r (&3&lChemical Dissolution Chamber&r not Center for Disease Control and Prevention) is another &5Machine&r only used for &lOre Processing&r. \\n\\nThe &3&lC.D.C.&r will need &aSulfuric Acid&r and &7Ore&r. \\n\\nThe &7Ore&r will go in the &4Red Slot&r while the &aSulfuric Acid&r will go in the &4Red Bar&r. \\n\\nThe finished &7Dirty Slurry&r will spawn in the &9Blue Bar&r!"]
 	quest.6B8040401B512E50.title: "&3&lChemical Dissolution Chamber"
@@ -11634,7 +11634,7 @@
 	quest.6E3D53D1C4569A89.title: "&aExperience Pump Upgrade"
 	quest.6E4C3B87FABE9EFA.quest_subtitle: "Copper + Tin"
 	quest.6E4C3B87FABE9EFA.title: "Bronze Bee"
-	quest.6E5954C257726F86.quest_desc: ["Filtering per mod can be very helpful.\\n\\nTo use it, put an item in from a certain mod, then it will show the mod name, and hit the Plus button to add it!"]
+	quest.6E5954C257726F86.quest_desc: ["Фільтрація за модом може бути дуже корисною.\\n\\nЩоб скористатися, покладіть предмет із певного мода, з'явиться назва мода, і натисніть кнопку плюс, щоб додати!"]
 	quest.6E6D9527AC093199.quest_desc: [
 		"This step is easy, we just &eCentrifuge&r our Residue and we're left with Iridium Chloride and some sludge"
 		""
@@ -12024,7 +12024,7 @@
 		"{image:atm:textures/questpics/bumblezone/bumble_house.png width:200 height:100 align:center}"
 	]
 	quest.719D5CEB4217B734.title: "&8B&6e&8e&r House"
-	quest.71A1FD0772453B51.quest_desc: ["Don't you hate Right Clicking everything? From Sheeps with Shears to Cows with Buckets? It's the 21st Century we should have Robots to everything! Or atleast Routers do everything. \\n\\nWith Activator Module it will act as if it were you Right Clicking things. \\n\\nYou can set what it will Right Click, if it will Attack or Use the Mob or Block, if you Shift Right Click, and how close they need to be in the Module."]
+	quest.71A1FD0772453B51.quest_desc: ["Набридло постійно натискати ПКМ? Від овець із ножицями до корів із відрами? 21 століття — час роботів! Або хоча б роутерів. \\n\\nЗ модулем-активатором він діятиме так, ніби це ви натискаєте ПКМ. \\n\\nМожна налаштувати, по чому натискати, чи атакувати чи використовувати моба/блок, чи натискати з Shift, і на якій відстані."]
 	quest.71AA40CB2948A8D7.quest_subtitle: "Blue Yonder + Soul Tree"
 	quest.71B1416A45FBBE40.quest_desc: [
 		"You can find sulfur ore in the nether and then smelt it to get sulfur dust. There are also bees!"
@@ -12073,7 +12073,7 @@
 		"{image:atm:textures/questpics/allthemodium/all_clay.png width:200 height:100 align:center}"
 	]
 	quest.71E4FD61787DE299.title: "&6Усемодієвий Ковальський шаблон"
-	quest.71FDF8CD953E46FC.quest_desc: ["HAHAHA did I scare you with the Creative item in the quests?\\n\\nDon't worry you won't need the item to finish this chapter, I just wanted to scare you\\n\\nI can have fun sometimes..."]
+	quest.71FDF8CD953E46FC.quest_desc: ["ХАХАХА, я налякав тебе креативним предметом у квестах?\\n\\nНе хвилюйся, тобі не знадобиться цей предмет для завершення розділу, я просто хотів налякати тебе\\n\\nЯ теж можу веселитися..."]
 	quest.72082D70F5D22632.quest_desc: ["Now this is the future! We are making progress, and stepping towards the Unknown!"]
 	quest.72082D70F5D22632.quest_subtitle: "Crystal Mainframe!"
 	quest.7208CB011F6E2ACF.quest_desc: ["Can be found in structures in the &l&6Bumblezone&r or traded for with the &5Bee Queen&r! \\n\\nThese Carpenter Bee Boots truly are incredible, you can wall-run or jump farther off of Wood Planks, Leaves, and &6Honey Blocks&r. \\n\\nAlso while holding Shift the Boots will Mine the Block beneath you."]
@@ -12148,7 +12148,7 @@
 		""
 		"&e&lNote:&r&r Many of the single block machines have multiblock variants that are better, but I'm not going to go into those (yet)"
 	]
-	quest.72A71E1D6D8996FD.quest_desc: ["Is this code? I'm not a coder!? I just wanted to make these quests! \\n\\nHere you can type in a Regex into the Search Bar and click the Plus Button to add it to the Filter. Whenever that Regex comes up it will be filtered out."]
+	quest.72A71E1D6D8996FD.quest_desc: ["Це код? Я не кодер!? Я просто хотів зробити ці квести! \\n\\nТут можна ввести регулярний вираз у рядок пошуку та натиснути плюс, щоб додати у фільтр. Коли цей вираз спрацює — предмет буде відфільтровано."]
 	quest.72AB70FD8D8FABBF.quest_subtitle: "&cThe Nether&r!"
 	quest.72AB70FD8D8FABBF.title: "On a Highway to..."
 	quest.72B3CDA595D08587.quest_desc: [
@@ -12330,7 +12330,7 @@
 	]
 	quest.73C7F57B90731010.title: "&6Honey&r Fountain"
 	quest.73CD6CE2B10830B9.title: "&6Master of The Universe&r"
-	quest.73D60868024FF907.quest_desc: ["The Fluid MK2! \\n\\nAny Liquid Source nearby can be used with this one, not just adjacent."]
+	quest.73D60868024FF907.quest_desc: ["Fluid MK2! \\n\\nБудь-яке джерело рідини поруч можна використовувати з цим модулем, не лише сусіднє."]
 	quest.73D6B980D35082A0.quest_desc: ["This one takes awhile to explain so have patience. \\n\\nFirst, find an &aEvoker Fort&r. \\nNext, find a Research Book hidden in it. Then, have a Trader who's hostage in the &aFort&r translate it. (Like our hostage Quest Translators!) \\nOnce, it's translated bring it to a &6&lPriest&r in a &6Village&r to trade it for the &eSpell Book&r! \\n\\nIt gives a boost to &6Holy Spells&r and don't worry the hostage Traders are very very rare, keep looking!"]
 	quest.73D6B980D35082A0.title: "&6Villager Bible"
 	quest.73E2A53A088AD29A.quest_subtitle: "11 Wet Pink Blocks"
@@ -12534,15 +12534,15 @@
 	quest.75E4751F7A802A44.title: "Creating &aSulfuric Acid"
 	quest.75EE965CBA598FEA.quest_desc: ["The recipe may look confusing but trust me it is pretty easy. Craft any &dWireless Terminals&r then craft them together to make the &dUniversal Wireless Terminal&r. \\n\\nIt will also keep whatever you had on the &dTerminal&r like Extended Patterns, that is very helpful for using &b&lAE2&r but doesn't matter for the &6&lATM Star&r!"]
 	quest.75EE965CBA598FEA.title: "&dUniversal Wireless Terminal"
-	quest.75FE0B514448865B.quest_desc: ["Upgrades go directly into the Router and the Router can hold 5 of them. Upgrades directly affect all Modules that they can and usually can stack!"]
-	quest.75FE0B514448865B.title: "&lUpgrades"
+	quest.75FE0B514448865B.quest_desc: ["Покращення вставляються безпосередньо в роутер, і він може містити до 5. Вони впливають на всі модулі, на які можуть, і зазвичай сумуються!"]
+	quest.75FE0B514448865B.title: "&lПокращення"
 	quest.7604D8B3C9FCCFD9.quest_desc: [
 		"It's time to create the 'Hard Drives' of Refined Storage. To do this, we'll need a &9Storage Housing&r that we'll combine with a &aStorage Part&r to create a &dStorage Disk&r. Just simply make the desired size of the part, then combine with the housing to create a disk. "
 		""
 		"The Storage Disk is used to store your items virtually once placed inside of the Disk Drive. It has to be put in a Disk Drive. The Storage Disk won't despawn when dropped in the world."
 	]
 	quest.7604D8B3C9FCCFD9.title: "Storage Housing"
-	quest.76062D375E4CC8DD.quest_desc: ["We've seen Filters and we've seen Round Robins, now we're seeing both! This is useful for keeping the Items in a select order like for when making Mystical Agriculture Seeds!"]
+	quest.76062D375E4CC8DD.quest_desc: ["Ми вже бачили фільтри та кругове розподілення, а тепер бачимо обидва разом! Це корисно для збереження порядку предметів, наприклад, при створенні насіння Mystical Agriculture!"]
 	quest.76071C22A73A2026.title: "&cTertium Farmland"
 	quest.76084BE1BBCF941F.quest_desc: [
 		"This is a base upgrade for all machines and items."
@@ -13564,7 +13564,7 @@
 	quest.7F85669FEA41CD97.title: "&6&lPriest"
 	quest.7F8B6D5F360D985A.quest_desc: ["{image:atm:textures/questpics/basicarmor/armor_fiery.png width:100 height:150 align:center}"]
 	quest.7F8B6D5F360D985A.title: "&eFiery"
-	quest.7F8DEDD0A54D1E11.quest_desc: ["I wonder what Droppers do? \\nI think they drop things... \\n\\nAny item in the Buffer will be dropped on the ground. \\n\\nCould be helpful with something like Botania!"]
+	quest.7F8DEDD0A54D1E11.quest_desc: ["Цікаво, що роблять дропери? \\nДумаю, вони просто викидають речі... \\n\\nБудь-який предмет у буфері буде викинутий на землю. \\n\\nМоже бути корисно, наприклад, із Botania!"]
 	quest.7F8E50FA436DB4E6.quest_desc: ["&dEncased Chain Drives&r will act similar to &eBelts&r, by connecting &8Shafts&r to each other in a row. \\n\\nThere is quite a few differences though, like that &dEncased Chain Drives&r can be used with a &6Wrench&r to rotate. They also need to be placed directly next to other &dChain Drives&r to keep &dRotating&r. \\n\\nLike &eBelts&r though, they keep the same Speed and Stress Units as the original &8Shaft&r. Plus they keep the same direction!"]
 	quest.7F8E50FA436DB4E6.title: "&dEncased Chain Drives"
 	quest.7F9131107E7F9AC8.quest_desc: [
@@ -13990,7 +13990,7 @@
 	task.413BE83975DC2577.title: "Automation"
 	task.41602F0D9097E74F.title: "Chipped Terracotta"
 	task.41910A3BC6C0E838.title: "Prudentium Tools"
-	task.41EEE559F6402D81.title: "Creative Module"
+	task.41EEE559F6402D81.title: "Креативний модуль"
 	task.41FF171C7D97B574.title: "Chipped Gem Blocks"
 	task.4203F7ED807F3D30.title: "Skeletal Comb"
 	task.4209A06A392362DB.title: "Importer \& Exporter GUI"
@@ -14155,7 +14155,7 @@
 	task.60BF6E0420C91050.title: "&dAdvanced Mekanism&r"
 	task.6100E7F26888B7DF.title: "Additional Lanterns"
 	task.614C3310C61487CB.title: "Унобтанієві арканічні обладунки"
-	task.616C07AFBAFA7AE4.title: "Hoes"
+	task.616C07AFBAFA7AE4.title: "Мотики"
 	task.61D93B13D496547D.title: "Fluid Storage"
 	task.61E3800DF5D25567.title: "Усемодієві арканічні обладунки"
 	task.61FFB3326113FE18.title: "Oh The Biomes We've Gone Wood"
@@ -14164,7 +14164,7 @@
 	task.624ADD79136376C0.title: "XyCraft World Items"
 	task.62F11A588B293CA6.title: "AllRightsReserved"
 	task.6304FF8A9E8957FE.title: "Унобтанієві інструменти"
-	task.631388151555159B.title: "Sender Modules"
+	task.631388151555159B.title: "Модулі-відправники"
 	task.638F02CE74B2568A.title: "Quests By AllTheMods"
 	task.63C2897AE205D747.title: "Build the SPS!"
 	task.63EB4BCA531A9F2A.title: "Exploration Mod Netherite Pickaxes"
@@ -14282,7 +14282,7 @@
 	task.79AEDC66EB312BCA.title: "Brass Comb"
 	task.79E961F671475850.title: "Thermodynamic Conductors"
 	task.79F67E07C28F8E97.title: "Minecraft Railgun Ammo"
-	task.7A588081117FA54F.title: "ВсіПраваЗахищено"
+	task.7A588081117FA54F.title: "AllRightsReserved"
 	task.7AAE25A5D1C4E2FA.title: "Quests By AllTheMods"
 	task.7AB26B5B4167E5EC.title: "Titanium Ingot"
 	task.7B128D5D8D5530A8.title: "Coloring"
